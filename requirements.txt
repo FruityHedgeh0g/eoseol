@@ -1,5 +1,0 @@
-requests>=2.32
-langchain>=0.3
-langchain-anthropic>=0.3
-langchain-core>=0.3
-duckduckgo-search>=6.3
